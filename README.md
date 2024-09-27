@@ -1,0 +1,12 @@
+## HASIL PENGERJAAN TUGAS 1 DAN TUGAS 2 MUHANMAD HADI DENGAN MENGGUNAKAN TYPESCRIPT
+
+### HASIL TUGAS 1
+
+!["IMAGE TUGAS1"](img/tugas1variable.png)
+!["IMAGE TUGAS1"](img/method-matematika.png)
+
+### HASIL TUGAS 2
+
+!["IMAGE TUGAS2"](img/tugas2.png)
+
+## SYUKRON🙏
