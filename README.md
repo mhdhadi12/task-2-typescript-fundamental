@@ -1,3 +1,9 @@
+## Cara menjalankan Typescript
+
+1. npm install
+1. ts-node tugas1.ts
+1. ts-node tugas2.ts
+
 ## HASIL PENGERJAAN TUGAS 1 DAN TUGAS 2 MUHANMAD HADI DENGAN MENGGUNAKAN TYPESCRIPT
 
 ### HASIL TUGAS 1
